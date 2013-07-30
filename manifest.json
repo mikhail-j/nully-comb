@@ -1,0 +1,20 @@
+{
+	"manifest_version": 2,
+	"name": "Null Y-Comb",
+	"version": "0.1",
+	"description": "Blocks Y-Combinator for 1 minute.",
+    "icons": {
+      "128": "img/icon128.png",
+       "48": "img/icon48.png",
+      "16": "img/icon16.png"
+    },
+	"permissions": [
+		"https://news.ycombinator.com/*"
+	],
+    "content_scripts": [ {
+       "all_frames": true,
+       "js": [ "functions.js"],
+       "matches": ["https://news.ycombinator.com/*"],
+       "run_at": "document_start"
+    }]
+}
