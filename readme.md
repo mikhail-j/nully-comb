@@ -16,7 +16,7 @@ Read the comments of "functions.js".
 Where can I run this application?
 ---------------------------------
 
-Click the "Download ZIP" for a packaged .zip file. Locate the .zip file on your computer and rename it to .crx. Open the .crx file in Google Chrome.
+Download [Null Y-Combinator](https://github.com/mikhail-j/nully-comb/raw/master/bin/nullycomb.zip) and extract a .crx file that Google Chrome can open.
 
 Credits
 -------
