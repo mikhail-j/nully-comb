@@ -16,7 +16,7 @@ Read the comments of "functions.js".
 Where can I run this application?
 ---------------------------------
 
-Git clone this repository and load this unpackaged extension in Google Chrome's Dev Mode.
+Download [Null Y-Combinator](https://github.com/mikhail-j/nully-comb/raw/master/bin/ggaofoapebcpaopcpicgjekhkmfaahph.crx) and drag the .crx file into your chrome://extensions window!
 
 Credits
 -------
