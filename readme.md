@@ -3,6 +3,11 @@ Null Y-Combinator
 
 This is an chrome extension inspired by the AdBlock Chrome extension.
 
+What does this extension do?
+----------------------------
+
+Prevents the loading of Y-Combinator News for 1 minute.
+
 License
 -------
 
