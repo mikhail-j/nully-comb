@@ -16,7 +16,7 @@ Read the comments of "functions.js".
 Where can I run this application?
 ---------------------------------
 
-Download [Null Y-Combinator](https://github.com/mikhail-j/nully-comb/raw/master/bin/ggaofoapebcpaopcpicgjekhkmfaahph.crx) and drag the ggaofoapebcpaopcpicgjekhkmfaahph.crx file into your chrome://extensions window!
+Download [Null Y-Combinator](https://github.com/mikhail-j/nully-comb/releases/download/v0.2/ggaofoapebcpaopcpicgjekhkmfaahph.crx) and drag the ggaofoapebcpaopcpicgjekhkmfaahph.crx file into your chrome://extensions window!
 
 Credits
 -------
